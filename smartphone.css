@@ -9,7 +9,7 @@ body {
     display: grid;
     overflow: hidden;
     max-width: 100%;
-    background-image: url(../assets/Tesla-9.2+poklon-tablet.jpg);
+    background-image: url(./assets/Tesla-9.2+poklon-tablet.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
